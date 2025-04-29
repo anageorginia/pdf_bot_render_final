@@ -1,0 +1,8 @@
+
+python-telegram-bot==20.0
+pdf2image
+nest_asyncio
+Flask
+telegram
+poppler-utils==0.1.0
+telegram_text==0.2.0
